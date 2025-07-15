@@ -31,3 +31,6 @@ I'm a **Python and Flutter developer** passionate about building real-world data
 
 - 🌐 GitHub: https://github.com/MMujtabaX  
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammad-mujtaba-khan-suri-38b6ab252/
+
+![Mujtaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=mujtaba-khan&show_icons=true&theme=radical)
+
