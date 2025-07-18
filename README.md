@@ -25,7 +25,7 @@ I'm a **Python and Flutter developer** passionate about building real-world data
 
 ## 📜 Certifications
 
-- 🧑‍💻 [**Python for Everybody Specialization** – University of Michigan (Coursera)](https://www.coursera.org/account/accomplishments/specialization/70S7JV7U2N5G)
+- 🧑‍💻 [**Python for Everybody Specialization** – University of Michigan (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/70S7JV7U2N5G)
 - 🧑‍💻 **Computational Thinking For Problem Solving** – University of Pennsylvania (Coursera)  
 - 🤖 **AI For Everyone** – DeepLearning.AI (Coursera)  
 - 🤖 **Generative AI For Everyone** – DeepLearning.AI (Coursera)  
