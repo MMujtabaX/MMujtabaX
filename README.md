@@ -4,6 +4,8 @@ I'm a **Python and Flutter developer** passionate about building real-world data
 
 ---
 
+![Mujtaba's Banner](https://miro.medium.com/v2/resize:fit:1400/1*oUAAR9fnsmpstFhqmZZ55g.gif)
+
 ## 🔧 Projects
 
 ### 🐍 Python Projects
