@@ -16,14 +16,17 @@ I'm a **Python and Flutter developer** passionate about building real-world data
 ### 📱 Flutter Projects
 - 🍲 **Recipe App** – A simple mobile app to display and browse recipes using Flutter and asset images  
 
+### 🛠️ Assembly Projects
+- 💳 **Debit Card System (MASM x86)** – A console-based debit card application in Assembly with PIN verification, deposits, discount logic, and balance tracking. Ideal for understanding low-level logic and register manipulation.
+
 ---
 
 ## 📜 Certifications
 
 - 🧑‍💻 **Python for Everybody Specialization** – University of Michigan (Coursera)  
-- 🧑‍💻 **Computational Thinking For Problem Solving** – University of Pennsylvania (Coursera)
-- 🤖 **AI For Everyone** – DeepLearning.AI (Coursera)
-- 🤖 **Generative AI For Everyone** – DeepLearning.AI (Coursera)
+- 🧑‍💻 **Computational Thinking For Problem Solving** – University of Pennsylvania (Coursera)  
+- 🤖 **AI For Everyone** – DeepLearning.AI (Coursera)  
+- 🤖 **Generative AI For Everyone** – DeepLearning.AI (Coursera)  
 
 ---
 
@@ -31,4 +34,3 @@ I'm a **Python and Flutter developer** passionate about building real-world data
 
 - 🌐 GitHub: https://github.com/MMujtabaX  
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammad-mujtaba-khan-suri-38b6ab252/
-
