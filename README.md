@@ -18,7 +18,7 @@ I'm a **Python and Flutter developer** passionate about building real-world data
 ### 📱 Flutter Projects
 - 🍲 **Recipe App** – A simple mobile app to display and browse recipes using Flutter and asset images  
 
-### 🔩 Assembly Projects
+### 🧰 Assembly Projects
 - 💳 **Debit Card System (MASM x86)** – A console-based debit card application in Assembly with PIN verification, deposits, discount logic, and balance tracking. Ideal for understanding low-level logic and register manipulation.
 
 ---
