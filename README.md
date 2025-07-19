@@ -39,9 +39,9 @@ I'm a **Python and Flutter developer** passionate about building real-world data
   <img src="https://img.shields.io/badge/Data Analysis-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data Visualization-teal?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Web Scraping-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative AI-pink?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Problem Solving-9C27B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Project Management-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative AI-pink?style=for-the-badge"/>
 </p>
 
 ---
