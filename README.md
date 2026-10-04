@@ -22,7 +22,7 @@
 - 🤖 **AI Trainee at Atomcamp**, building end-to-end pipelines across **computer vision (YOLOv8)**, **NLP** and **generative AI agents**
 - 🏃 Final-year project: **NeuralStride**, real-time exercise-form analysis and correction with computer vision
 - 🔭 Interested in **real-time computer vision**, **LLM agents and RAG**, and **MLOps**: taking models from notebook to production
-- 🥇 Gold Medal for AI/CV contribution at DHA Suffa University
+- 🥇 Gold Medal for AI/CV contribution at DHA Suffa University · 🏆 Top 25 of 400+ at the Sofstica AI Hackathon 2026
 - 💬 Ask me about: YOLO pipelines, LangGraph agents, RAG evaluation, MCP servers
 
 ---
@@ -60,8 +60,7 @@ A multi-agent research platform with **LangGraph**, **Corrective RAG** over FAIS
 <td width="50%" valign="top">
 
 ### 🏭 [SourceWise](https://github.com/MMujtabaX/AI-Manufacturing-Decision-Copilot)
-An AI copilot for supplier shortlisting (**Sofstica AI Hackathon 2026**). Deterministic rule screening plus an LLM extracting cited evidence, with conflict detection and human-in-the-loop approval.
-
+An AI copilot for supplier shortlisting. Top 25 / 400+ submissions at the Sofstica AI Hackathon 2026. Deterministic rule screening plus an LLM extracting cited evidence, with conflict detection and human-in-the-loop approval.
 `LLM` `Groq` `Pydantic` `Streamlit` · **0% hallucination rate**
 
 </td>
@@ -219,7 +218,7 @@ Skip-gram with negative sampling in **pure NumPy**: derived gradients verified n
 
 - 🥇 **Gold Medal**, AI/CV Contribution, DHA Suffa University
 - 🥉 **Bronze Medal**, International Kangaroo Linguistics Contest (IKLC)
-- 🏭 **Sofstica AI Hackathon 2026**: built SourceWise, an AI supplier-shortlisting copilot
+- 🏆 Sofstica AI Hackathon 2026: Top 25 out of 400+ submissions with SourceWise, an AI supplier-shortlisting copilot
 
 ---
 
