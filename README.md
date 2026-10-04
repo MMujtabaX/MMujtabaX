@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final-year **BS Computer Science** student at **UBIT, University of Karachi** (CGPA 3.51 / 4.0, on a fully-funded merit scholarship)
+- 🎓 Final-year **BS Computer Science** student at **UBIT, University of Karachi** (on a fully-funded merit scholarship)
 - 🤖 **AI Trainee at Atomcamp**, building end-to-end pipelines across **computer vision (YOLOv8)**, **NLP** and **generative AI agents**
 - 🏃 Final-year project: **NeuralStride**, real-time exercise-form analysis and correction with computer vision
 - 🔭 Interested in **real-time computer vision**, **LLM agents and RAG**, and **MLOps**: taking models from notebook to production
@@ -205,12 +205,12 @@ Skip-gram with negative sampling in **pure NumPy**: derived gradients verified n
 
 ## 🎓 Education
 
-**BS Computer Science** · UBIT, University of Karachi · *2023 – 2026* · CGPA **3.51 / 4.0**
+**BS Computer Science** · UBIT, University of Karachi · *2023 – 2026*
 <br/><sub>Artificial Intelligence · Natural Language Processing · Parallel & Distributed Computing · Data Structures & Algorithms · Data Warehousing & Mining · Modeling & Simulation · Operations Research</sub>
 
 ## 📜 Certifications
 
-- 🤖 **Google AI Professional Certificate** (7-course series), Google · Coursera
+- 🤖 [**Google AI Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/RS76ZPVV6083) (7-course series), Google · Coursera
 - 🐍 [**Python for Everybody Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/70S7JV7U2N5G) (5-course series), University of Michigan · Coursera
 - 🧩 [**Computational Thinking for Problem Solving**](https://www.coursera.org/account/accomplishments/certificate/NZCG3E6YDBVJ), University of Pennsylvania · Coursera
 - 💡 [**AI For Everyone**](https://www.coursera.org/account/accomplishments/certificate/EX38Z2WKGWKU) and [**Generative AI for Everyone**](https://www.coursera.org/account/accomplishments/certificate/JZMW1F7ZWHPR), DeepLearning.AI · Coursera
