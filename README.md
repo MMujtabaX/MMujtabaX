@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final-year **BS Computer Science** student at **UBIT, University of Karachi** (on a fully-funded merit scholarship)
+- 🎓 Final-year **BS Computer Science** student at **UBIT, University of Karachi**
 - 🤖 Completed a 6-month **AI traineeship at Atomcamp**, building end-to-end pipelines across **computer vision (YOLOv8)**, **NLP** and **generative AI agents**
 - 🏃 Final-year project: **NeuralStride**, real-time exercise-form analysis and correction with computer vision
 - 🔭 Interested in **real-time computer vision**, **LLM agents and RAG**, and **MLOps**: taking models from notebook to production
