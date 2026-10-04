@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=640&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+Agentic+AI;Building+real-time+AI+systems+that+ship" alt="Typing SVG" />
 </a>
 
-**AI Trainee @ Atomcamp · Final-year BS Computer Science @ UBIT, University of Karachi · Karachi, Pakistan 🇵🇰**
+**AI/ML Engineer · Final-year BS Computer Science @ UBIT, University of Karachi · Karachi, Pakistan 🇵🇰**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mujtaba-khan-suri-38b6ab252/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmujtabakhansuri@gmail.com)
@@ -19,7 +19,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Final-year **BS Computer Science** student at **UBIT, University of Karachi** (on a fully-funded merit scholarship)
-- 🤖 **AI Trainee at Atomcamp**, building end-to-end pipelines across **computer vision (YOLOv8)**, **NLP** and **generative AI agents**
+- 🤖 Completed a 6-month **AI traineeship at Atomcamp**, building end-to-end pipelines across **computer vision (YOLOv8)**, **NLP** and **generative AI agents**
 - 🏃 Final-year project: **NeuralStride**, real-time exercise-form analysis and correction with computer vision
 - 🔭 Interested in **real-time computer vision**, **LLM agents and RAG**, and **MLOps**: taking models from notebook to production
 - 🥇 Gold Medal for AI/CV contribution at DHA Suffa University · 🏆 Top 25 of 400+ at the Sofstica AI Hackathon 2026
@@ -60,7 +60,8 @@ A multi-agent research platform with **LangGraph**, **Corrective RAG** over FAIS
 <td width="50%" valign="top">
 
 ### 🏭 [SourceWise](https://github.com/MMujtabaX/AI-Manufacturing-Decision-Copilot)
-An AI copilot for supplier shortlisting. Top 25 / 400+ submissions at the Sofstica AI Hackathon 2026. Deterministic rule screening plus an LLM extracting cited evidence, with conflict detection and human-in-the-loop approval.
+🏆 **Top 25 / 400+ submissions** at the Sofstica AI Hackathon 2026. An AI copilot for supplier shortlisting: deterministic rule screening plus an LLM extracting cited evidence, with conflict detection and human-in-the-loop approval.
+
 `LLM` `Groq` `Pydantic` `Streamlit` · **0% hallucination rate**
 
 </td>
